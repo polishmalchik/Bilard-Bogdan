@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="1000.0" translateX="50.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#824500" height="82.0" layoutY="518.0" stroke="#824500" strokeType="INSIDE" strokeWidth="2.0" translateX="-2.0" width="84.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#824500" height="69.0" layoutX="834.0" layoutY="531.0" stroke="#141413" strokeType="INSIDE" strokeWidth="2.0" translateX="1.0" translateY="1.0" width="68.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#804200" height="69.0" layoutX="832.0" layoutY="100.0" stroke="#824500" strokeType="INSIDE" strokeWidth="2.0" translateX="1.0" translateY="-1.0" width="68.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#824500" height="69.0" layoutY="100.0" stroke="#824500" strokeType="INSIDE" strokeWidth="2.0" translateX="-1.0" translateY="-1.0" width="84.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#3b8000" height="430.0" layoutX="35.0" layoutY="135.0" stroke="BLACK" strokeMiterLimit="0.0" strokeType="INSIDE" strokeWidth="0.0" width="830.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#824500" height="390.0" layoutY="155.0" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+      <Rectangle fill="#824500" height="35.0" layoutX="55.0" layoutY="565.0" stroke="BLACK" strokeType="INSIDE" width="790.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#824500" height="35.0" layoutX="55.0" layoutY="100.0" stroke="BLACK" strokeType="INSIDE" width="790.0" />
+      <Circle layoutX="35.0" layoutY="135.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#824500" height="390.0" layoutX="865.0" layoutY="155.0" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+      <Circle layoutX="865.0" layoutY="135.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle layoutX="450.0" layoutY="127.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle layoutX="865.0" layoutY="565.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle layoutX="450.0" layoutY="574.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle layoutX="35.0" layoutY="565.0" radius="20.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+   </children>
+</Pane>
